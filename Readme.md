@@ -1,3 +1,5 @@
+On add a command to the PowerShell prompt, you can convert JSON text to Hashtable object.
+
 # Usage
 
 Load the function script before using this.
